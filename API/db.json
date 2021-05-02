@@ -1,0 +1,64 @@
+{
+  "Blogs": [
+    {
+      "id": 1,
+      "title": "How to Save Ourselves From Disinformation, A Times Event",
+      "author": "Manali Patil",
+      "body": "Join Sarah Silverman, comedian and host of The Sarah Silverman Podcast, and Times reporters Kevin Roose, Sheera Frenkel and Davey Alba as they untangle the roots of disinformation, and the effects it has on our world."
+    },
+    {
+      "id": 2,
+      "title": "‘Just Overwhelmed’: When a School Restarts but Students Can’t",
+      "author": "Vaibhav Badgire",
+      "body": "As an audio producer for The New York Times, I had been working with colleagues on an audio documentary about Odessa High as a case study of how students, teachers and administrators were dealing with the coronavirus after a lockdown ended. That school, like others in Texas, opened its doors in August ahead of many districts across the country. Because coronavirus positivity rates were nearing 20 percent in Odessa, we decided to do all of our reporting remotely, asking students and teachers to document themselves with audio diaries and communicating with them via calls and texts."
+    },
+    {
+      "id": 3,
+      "title": "Tattooed Italian mobster nabbed in Caribbean thanks to his cooking videos",
+      "author": "Prashant Patil",
+      "body": "A mafia fugitive hiding in the Dominican Republic has been tracked down thanks to his tattoos visible in cooking videos he posted on YouTube, Italian police said on Monday. Biart fled to Central America and then to the Dominican Republic, where, according to the Italian police, he was careful not to attract attention and kept his distance from the numerous Italians living in Boca Chica."
+    },
+    {
+      "id": 4,
+      "title": "Closer economic ties with India will create jobs and opportunities for Canadians",
+      "author": "Shriram Patil",
+      "body": "A recent Canada-India joint study estimated that a free trade agreement between the two countries has the potential to boost Canada's economy by $6 billion-$15 billion annually, benefiting Canadian businesses of all sizes."
+    },
+    {
+      "id": 5,
+      "title": "Govt working unitedly, rapidly to deal with Covid crisis: PM Modi Govt working unitedly, rapidly to deal with Covid crisis: PM Modi",
+      "author": "PM Narendra Modi",
+      "body": "Prime Minister Narendra Modi on Friday said that all arms of .. Read more at: http://timesofindia.indiatimes.com/articleshow/82327360.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst"
+    },
+    {
+      "id": 6,
+      "title": "My new websites",
+      "author": "Manali Patil",
+      "body": "Here I am presenting my new portfolio."
+    },
+    {
+      "id": 7,
+      "title": "My first blog",
+      "author": "Ajay Patil",
+      "body": "This is my first ever blog..!!"
+    },
+    {
+      "id": 8,
+      "title": "Journey towards IIT Bombay",
+      "author": "Vaibhav Badgire",
+      "body": "Here is my journey towards my dream."
+    },
+    {
+      "id": 10,
+      "title": "Journey towards Software Enginner",
+      "author": "Manali Patil",
+      "body": "Information Technology."
+    },
+    {
+      "title": "Hellooo, asha",
+      "body": "Here is my first blog.",
+      "author": "Asha autade",
+      "id": 12
+    }
+  ]
+}
